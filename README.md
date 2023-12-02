@@ -4,7 +4,6 @@ A simple implementation of Fruit Ninja Game using Unity 2022.3
 This project is a simple implementation of the popular game Fruit Ninja using Unity 2022.3. The game involves slicing fruits that are thrown onto the screen by swiping your finger (or mouse in this case) across them.
 ## Features
 - Fruit Slicing: The main feature of the game is slicing fruits. The fruits are randomly thrown onto the screen and the player has to slice them by swiping across them.
-- Combo System: The game features a combo system where slicing multiple fruits in a single swipe results in extra points.
 - Bombs: Occasionally, bombs are also thrown onto the screen. The player has to avoid slicing these as it results in a game over.
 ## How to Play
 - Start the game: Click on the 'Play' button on the main menu to start the game.
