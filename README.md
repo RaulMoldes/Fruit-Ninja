@@ -28,5 +28,5 @@ This project is a simple implementation of the popular game Fruit Ninja using Un
 
 ## Figures
 
-![Figure 1](figs/1.png)
-![Figure 2](figs/3.png)
+![Figure 1](figs/3.png)
+![Figure 2](figs/2.png)
